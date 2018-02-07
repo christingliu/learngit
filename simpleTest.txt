@@ -6,4 +6,4 @@ Greating a new branch is quick.
 Creating a new branch is quick AND simple.
 Git end.
 add something to the dev branch.
-ff branch test.
+ff branch test end.
